@@ -1,3 +1,5 @@
+    # STEP 1! SYNTAX 
+
 # create the initial variables below
 #Age in years
 age = 28
@@ -70,3 +72,4 @@ print("This person's insurance cost is " + str(new_insurance_cost) + "dollars")
 change_in_insurance_cost = new_insurance_cost - insurance_cost
 
 print("The change in estimated cost for smoker instead of a non-smoker is " + str(change_in_insurance_cost) + "dollars")
+
